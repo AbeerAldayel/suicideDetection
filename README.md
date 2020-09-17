@@ -12,8 +12,8 @@ In this work we are trying to build model that predicts the risk level of suicid
 
 * Shared_task_posts.csv which contains 1048576 records [post_id,user_id,Timestamp, subreddit, post_title, post_body]
 
-## link to the shared latex file
-* Link to Overleaf latex file https://www.overleaf.com/1411918554ftzbvbgrjtcs
+## Paper
+* Chen, Lushi, Abeer Aldayel, Nikolay Bogoychev, and Tao Gong. "Similar minds post alike: Assessment of suicide risk using a hybrid model." Proceedings of the Sixth Workshop on Computational Linguistics and Clinical Psychology. 2019.
 ## Main Dates
 * Mar 18     Preliminary system description paragraphs due (for our overview shared task paper)
 * Mar 20-22  Test set downloadable. Output (and IRB approval or determination of Exempt status) due 4 days from your download timestamp.   Submissions without documentation of IRB approval, exemption, or equivalent will not be evaluated.
